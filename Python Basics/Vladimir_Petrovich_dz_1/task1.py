@@ -100,6 +100,6 @@ def one_cycle_realisation():
 
 
 if __name__ == '__main__':
-    #duration = 628 #Запрос организован внутри функции.
+    #duration = 628 #Запрос организован внутри функции...
     print(naive_realisation())
     print(one_cycle_realisation())
