@@ -25,5 +25,5 @@ def transform_string(value) -> str:
     return message
 
 if __name__ == '__main__':
-    for n in range(1, 101):  # по заданию учитываем только значения от 1 до 100
+    for n in range(1, 101):  # по заданию учитываем только значения от 1 до 100.
         print(transform_string(n))

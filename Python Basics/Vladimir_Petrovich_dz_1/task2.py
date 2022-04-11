@@ -27,7 +27,7 @@ def sum_list_1(user_list):
         else:
             pass
         sum=0
-    return sum_list  # Верните значение полученной суммы
+    return sum_list  # Верните значение полученной суммы.
 
 
 def sum_list_2(user_list) :
